@@ -1,0 +1,11 @@
+button{
+    width: 200px;
+}
+#completed{
+    background-color: red;
+    color: black;
+}
+
+#delete{
+    width: 100px;
+}
