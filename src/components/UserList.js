@@ -6,16 +6,16 @@ const UserList = () => {
         console.log( 'inicializando estado' );
         return [
             {
-                firstname: 'Eduardo',
-                lastname: 'Caiza'
+                firstname: 'Maury',
+                lastname: 'Rodriguez'
             },
             {
-                firstname: 'Sofia',
-                lastname: 'Caiza'
+                firstname: 'Mauro',
+                lastname: 'Rodri'
             },
             {
-                firstname: 'Aracely',
-                lastname: 'Caiza'
+                firstname: 'Mauricio',
+                lastname: 'Rodriguez'
             }
         ];
     }
