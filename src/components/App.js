@@ -31,8 +31,8 @@ export default App;
 // class App extends React.Component{
 //
 //      user = {
-//      firstName: "Eduardo",
-//      lastName: "Caiza"
+//      firstName: "Maury",
+//      lastName: "Rodriguez"
 //      }
 //
 //     formatName = (user) => {
